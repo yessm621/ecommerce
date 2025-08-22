@@ -1,3 +1,4 @@
 rootProject.name = 'ecommerce'
 include('service-discovery')
 include('user-service')
+include('order-service')
